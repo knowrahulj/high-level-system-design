@@ -11,3 +11,7 @@
   - can pair up with CDNs
   - file URL can go in database 
  
+
+#### Sending messages (Chat)
+- Peer to peer (XMPP) protocol
+- Using web socket or use TCP
